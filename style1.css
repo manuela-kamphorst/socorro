@@ -1,0 +1,19 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+
+body {
+    
+}
+
+
+
+:root {
+    --cor-de-fundo: #ce2a2a;
+    --verde: #6fff57;
+    --branco: #ffffff;
+    --botao-ativo: #3a375e;
+    --botao-inativo: rgba(58,55,94,0.5);
+    --texto-fundo: rgba(58,55,94,0.3);
+    
+}
